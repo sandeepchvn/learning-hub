@@ -10,6 +10,9 @@ public class Example1 {
 	
 		Arrays.stream(n).forEach(a->System.out.println(a));
 		//or
+		
+		
+		String[] s= {"sandeep","chavan","rathod"};
 		Arrays.stream(n).forEach(System.out::println);
 	}
 }
