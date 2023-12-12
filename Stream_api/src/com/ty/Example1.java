@@ -13,6 +13,6 @@ public class Example1 {
 		
 		
 		String[] s= {"sandeep","chavan","rathod"};
-		Arrays.stream(n).forEach(System.out::println);
+		Arrays.stream(s).forEach(System.out::println);
 	}
 }
