@@ -1,8 +1,6 @@
 package com.ty;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.stream.Stream;
 
 public class Example3 {
 	public static void main(String[] args) {
